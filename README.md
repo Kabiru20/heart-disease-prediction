@@ -16,3 +16,12 @@ The final model achieved an accuracy of 87% on the test set.
 Precision (94%): The model is highly conservative; when it flags a patient as "at risk," it is almost always correct.
 
 Recall (71%): It successfully identifies the majority of positive cases, though there is room to improve sensitivity in future iterations.
+
+
+## Data Source
+The dataset used in this project is the **Heart Disease Data Set** from the UCI Machine Learning Repository.
+- **Source:** [UCI Machine Learning Repository - Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease)
+- **Original Creators:** - Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+  - University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+  - University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+  - V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
